@@ -1,0 +1,13 @@
+2026-02-01 10:15:23 INFO Application started
+2026-02-01 10:15:25 INFO User logged in
+2026-02-01 10:16:01 WARNING Disk usage at 75%
+2026-02-01 10:16:45 ERROR Failed to connect to database
+2026-02-01 10:17:10 INFO Scheduled task executed
+2026-02-01 10:18:03 ERROR Failed to connect to database
+2026-02-01 10:18:55 WARNING High memory usage detected
+2026-02-01 10:19:12 INFO Cache cleared
+2026-02-01 10:20:00 ERROR Timeout while connecting to service
+2026-02-01 10:21:34 INFO User logged out
+2026-02-01 10:22:15 ERROR Failed to connect to database
+2026-02-01 10:23:50 WARNING Low disk space
+2026-02-01 10:24:30 INFO Application shutdown initiated
