@@ -1,0 +1,7 @@
+Summary of system.log:
+Total line in the file: 13
+Total no. of INFO count: 6
+Total no. of WARNING count: 3
+Total no. of ERROR count:4
+Most frequent ERROR: Failed to connect to database
+(3 times)
